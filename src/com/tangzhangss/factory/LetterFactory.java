@@ -3,7 +3,11 @@ package com.tangzhangss.factory;
 import java.util.HashMap;
 
 /**
- * 字母工厂-简单工厂模式
+ * 字母工厂-工厂模式
+ *
+ * 工厂模式是创建型模式  策略模式是行为型模式
+ *
+ * 工厂模式运用了策略模式
  */
 public class LetterFactory{
 
